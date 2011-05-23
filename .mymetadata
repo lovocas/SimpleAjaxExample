@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AjaxTest"
+  id="myeclipse.1305914215800"
+  context-root="/AjaxTest"
+  j2ee-spec="5.0"
+  archive="AjaxTest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
